@@ -1,7 +1,7 @@
 pip install opencv-python
-sudo apt install libgl1
+sudo apt install libgl1 -y
 pip install pandas
-unzip datset4.zip
+unzip dataset4.zip
 pip install imutils
 pip install scikit-learn
 pip install tensorflow
