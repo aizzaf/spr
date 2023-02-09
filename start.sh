@@ -5,4 +5,5 @@ unzip dataset4.zip
 pip install imutils
 pip install scikit-learn
 pip install tensorflow
-sudo apt install graphviz
+sudo apt install graphviz -y
+pip install pillow
