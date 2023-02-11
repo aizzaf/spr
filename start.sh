@@ -4,4 +4,5 @@ pip install pandas
 unzip dataset4.zip
 pip install imutils
 pip install scikit-learn
-sudo apt install graphviz
+pip install tensorflow
+sudo apt install graphviz -y

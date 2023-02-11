@@ -1,7 +1,0 @@
-move to ~
-got to https://bazel.build/install/ubuntu
-check compatibility bazel and tensorflow https://www.tensorflow.org/install/source
-clone tensoflow check version https://github.com/tensorflow/tensorflow.git
-move to tensorflow
-./configure
-bazel build -c opt --copt=-mavx --copt=-mavx2 --copt=-mfma --copt=-mfpmath=both --copt=-msse4.2 -k //tensorflow/tools/pip_package:build_pip_package
